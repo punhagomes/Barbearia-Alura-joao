@@ -1,1 +1,8 @@
-.titulo{align-items: center;}
+.titulo{text-align: center;
+background-color: gray;}
+
+.paragrafo1{text-align: center;}
+
+.paragrafo2{text-align: center;}
+
+.paragrafo3{text-align: center;}
