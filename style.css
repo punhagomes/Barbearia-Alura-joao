@@ -7,6 +7,8 @@ body{
 .negrito{color: red;
 }
 
+.subtitulo{text-align: center;}
+
 .principal{background-color: gray;
     text-align: center;}
 
@@ -14,4 +16,9 @@ body{
 
 .imagem{width: 100%;}
 
-.beneficio{width: 100%;}
+.beneficio{width: 50%;}
+
+.lista{ display:inline-block;
+vertical-align: top;}
+
+.titulo{ padding: 20px;}
